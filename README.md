@@ -3,8 +3,4 @@
 This my first file in this repo.
 
 
-## Ipsum Below
-
-gfhagsfdhjgsdfkjgasfkjgjaksdbfvsdhfvhjavsdfhvsadfhjsgvdfjhsdgfsdhfghasdgfhajsdgfkjgjghsdfkhj
-
-wewewewe
+## Website Contents
